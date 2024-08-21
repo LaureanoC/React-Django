@@ -1,3 +1,25 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+  - [DJANGO Y REACT](#django-y-react)
+- [Creación del entorno virtual](#creaci%C3%B3n-del-entorno-virtual)
+- [Django](#django)
+  - [Configurando Django](#configurando-django)
+  - [Django REST Framework](#django-rest-framework)
+  - [Middleware CORS - django-cors-headers](#middleware-cors---django-cors-headers)
+  - [Utilizando el ORM](#utilizando-el-orm)
+  - [Creación de API](#creaci%C3%B3n-de-api)
+  - [Añadir módulo docs automático](#a%C3%B1adir-m%C3%B3dulo-docs-autom%C3%A1tico)
+- [React](#react)
+  - [Comunicación entre servidores](#comunicaci%C3%B3n-entre-servidores)
+  - [Crear](#crear)
+  - [Editar y Eliminar](#editar-y-eliminar)
+  - [React-hot-toast (mensajes)](#react-hot-toast-mensajes)
+  - [Tailwind](#tailwind)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## DJANGO Y REACT
 
 # Creación del entorno virtual
